@@ -1,0 +1,7 @@
+= mooc
+Restructuring a CSV file
+
+Runs on Python 3. Clone the repository, then change to the directory that holds
+the `input.csv` file and type something like:
+
+ python3 ../mooc/mooc.py
